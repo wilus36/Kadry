@@ -63,4 +63,3 @@ print(ow_1m_start.strftime("Początek miesięcznego okresu wypowiedzenia: %d.%m.
 print(ow_3m.strftime("Początek trzymiesięcznego okresu wypowiedzenia: %d.%m.%Y"))
 sys.stdout.close()
 
-#zaokrąglanie wynagrodzeń do dwóch liczb po przecinku - przypadki ?????
